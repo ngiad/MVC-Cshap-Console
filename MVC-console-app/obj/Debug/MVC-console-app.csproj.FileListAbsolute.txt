@@ -1,0 +1,8 @@
+D:\lean\C-Cpp\MVC-console-app\MVC-console-app\bin\Debug\MVC-console-app.exe.config
+D:\lean\C-Cpp\MVC-console-app\MVC-console-app\bin\Debug\MVC-console-app.exe
+D:\lean\C-Cpp\MVC-console-app\MVC-console-app\bin\Debug\MVC-console-app.pdb
+D:\lean\C-Cpp\MVC-console-app\MVC-console-app\obj\Debug\MVC-console-app.csproj.AssemblyReference.cache
+D:\lean\C-Cpp\MVC-console-app\MVC-console-app\obj\Debug\MVC-console-app.csproj.SuggestedBindingRedirects.cache
+D:\lean\C-Cpp\MVC-console-app\MVC-console-app\obj\Debug\MVC-console-app.csproj.CoreCompileInputs.cache
+D:\lean\C-Cpp\MVC-console-app\MVC-console-app\obj\Debug\MVC-console-app.exe
+D:\lean\C-Cpp\MVC-console-app\MVC-console-app\obj\Debug\MVC-console-app.pdb
